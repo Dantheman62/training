@@ -4,7 +4,7 @@ cache:
   directories: $HOME/.m2
 notifications:
   email:
-  recipients: danielchristou97@gmail.com
-  on_failure: always
-  on_success: never	
+    recipients: danielchristou97@gmail.com
+    on_failure: always
+    on_success: never	
   
